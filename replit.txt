@@ -1,4 +1,5 @@
 You can visit my folder in *Replit* - replit.com/@ThainaMoraes2
 
 You can find this project (Mean-Variance-Standard-Deviation-Calculator) in:
-https://replit.com/@ThainaMoraes2/Mean-Variance-Standard-Deviation-Calculator#main.py
+
+    https://github.com/ThainaMoraes/challenge-freecodecamp-mean-variance-standard-deviation-calculator
