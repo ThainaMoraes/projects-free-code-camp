@@ -12,4 +12,4 @@ Second Challenge:
   https://github.com/ThainaMoraes/challenge-freecodecamp-demographic-data-analyzer
 
 Third Challenge:
-  https://github.com/ThainaMoraes/challenge-freecodecamp-demographic-data-analyzer
+  https://github.com/ThainaMoraes/challenge-freecodecamp-medical-data-visualizer
